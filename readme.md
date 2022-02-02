@@ -1,1 +1,0 @@
-An html website featuring my favorite recipes. Doing this project to become more familiar with html, specifically creating paragraphs, lists, embedding photos, and linking to relative links on the site.
